@@ -25,6 +25,10 @@ Currently not accepting contributions to the Repo.
 ## Mock-Up
 (![Employee-Tracker](./assets/images/EmployeeTrackerSC1.png))
 
+## Demo Video
+https://drive.google.com/file/d/1uXZdI5mjaguwTTNitKbh0FlG1_iTZ9TC/view
+
+
 ## License
 Please see https://mit-license.org/ to get info about this license
 
